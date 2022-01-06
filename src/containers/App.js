@@ -4,7 +4,7 @@ import { setSearchField, requestRobots } from '../actions';
 
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
-import Scroll from '../components/Scroll';
+import SearchContainer from '../components/SearchContainer';
 import ErrorBoundry from '../components/ErrorBoundry';
 
 import './App.css';
@@ -41,13 +41,13 @@ class App extends Component {
       <div className='tc'>
         <h1 className='f1'>RoboFriends</h1>
         <SearchBox searchChange={onSearchChange}/>
-        <Scroll>
+        <SearchContainer>
           { isPending ? <h1>Loading</h1> :
             <ErrorBoundry>
               <CardList robots={filteredRobots} />
             </ErrorBoundry>
           }
-        </Scroll>
+        </SearchContainer>
       </div>
     );
   }

@@ -13,3 +13,19 @@ h1 {
   font-weight: 200;
   color: #0ccac4;
 }
+
+.search-divider {
+  width: 95%;
+
+  margin: 30px auto;
+}
+
+.search-input {
+  width: 350px;
+  outline: none;
+}
+
+.card {
+  width: 320px;
+  height: 340px;
+}
