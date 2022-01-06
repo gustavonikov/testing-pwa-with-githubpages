@@ -1,5 +1,5 @@
 # Robofriends
-React + Redux
+React + Redux and
 Testing PWA
 
 To run the project:
