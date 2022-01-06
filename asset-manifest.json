@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/testing-pwa-with-githubpages/static/css/main.c1c39d0f.css",
-    "main.js": "/testing-pwa-with-githubpages/static/js/main.ef085e03.js",
+    "main.js": "/testing-pwa-with-githubpages/static/js/main.a9799e6d.js",
     "service-worker.js": "/testing-pwa-with-githubpages/service-worker.js",
     "static/media/SEGA.woff": "/testing-pwa-with-githubpages/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/testing-pwa-with-githubpages/index.html",
     "main.c1c39d0f.css.map": "/testing-pwa-with-githubpages/static/css/main.c1c39d0f.css.map",
-    "main.ef085e03.js.map": "/testing-pwa-with-githubpages/static/js/main.ef085e03.js.map"
+    "main.a9799e6d.js.map": "/testing-pwa-with-githubpages/static/js/main.a9799e6d.js.map"
   },
   "entrypoints": [
     "static/css/main.c1c39d0f.css",
-    "static/js/main.ef085e03.js"
+    "static/js/main.a9799e6d.js"
   ]
 }
