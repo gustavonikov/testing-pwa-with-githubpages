@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/testing-pwa-with-githubpages/static/css/main.c1c39d0f.css",
-    "main.js": "/testing-pwa-with-githubpages/static/js/main.98c54b9c.js",
+    "main.css": "/testing-pwa-with-githubpages/static/css/main.0164879f.css",
+    "main.js": "/testing-pwa-with-githubpages/static/js/main.e095b175.js",
     "service-worker.js": "/testing-pwa-with-githubpages/service-worker.js",
     "static/media/SEGA.woff": "/testing-pwa-with-githubpages/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/testing-pwa-with-githubpages/index.html",
-    "main.c1c39d0f.css.map": "/testing-pwa-with-githubpages/static/css/main.c1c39d0f.css.map",
-    "main.98c54b9c.js.map": "/testing-pwa-with-githubpages/static/js/main.98c54b9c.js.map"
+    "main.0164879f.css.map": "/testing-pwa-with-githubpages/static/css/main.0164879f.css.map",
+    "main.e095b175.js.map": "/testing-pwa-with-githubpages/static/js/main.e095b175.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1c39d0f.css",
-    "static/js/main.98c54b9c.js"
+    "static/css/main.0164879f.css",
+    "static/js/main.e095b175.js"
   ]
 }
