@@ -1,10 +1,10 @@
 import React from 'react';
 
-const SearchContainer = (props) => {
+const SearchContainer = ({ children }) => {
   return (
     <div>
       <hr class="search-divider" />
-      {props.children}
+      {children}
     </div>
   );
 };
